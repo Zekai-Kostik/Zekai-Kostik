@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-[![Header](https://raw.githubusercontent.com/Zekai-Kostik/Zekai-Kostik/master/readme_header.png "Header")]
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
 👋 Hi, I’m @Zekai
