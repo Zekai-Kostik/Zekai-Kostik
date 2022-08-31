@@ -10,6 +10,8 @@
 Zekai-Kostik/Zekai-Kostik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+📩 Connect with me:
+
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
@@ -18,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-📩 Connect with me:
+
 
 [linkedin]: www.linkedin.com/in/zekai-kostik
 [medium]: https://medium.com/@zekai.kostik2469
