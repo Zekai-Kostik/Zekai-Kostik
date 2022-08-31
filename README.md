@@ -1,17 +1,22 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=25&pause=200&color=007ba7&lines=Hi+there..!+%F0%9F%96%90+I'm+Zekai,+;Welcome+to+My+GitHub+page...)](https://git.io/typing-svg)
+
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
+<br />
+<br />
 👋 Hi, I’m @Zekai
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+ 
 <!---
 Zekai-Kostik/Zekai-Kostik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 📩 Connect with me:
 
 
@@ -41,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-[vsCode]: https://code.visualstudio.com/
+[vsCode]: https://code.visualstudio.com/       
 [git]: https://git-scm.com/
 [github]: https://github.com/IbrahimTalha0
 [Linux]: https://www.linux.org/
@@ -53,3 +58,5 @@ You can click the Preview link to take a look at your changes.
 <br />
  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Zekai-Kostik&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zekai-Kostik&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+ 
+
