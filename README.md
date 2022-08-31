@@ -1,4 +1,3 @@
-<img src="https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png" alt="160744959694494596" style="max-width: 100%;">
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
 👋 Hi, I’m @Zekai
@@ -34,7 +33,9 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][Linux]
+
 
 <br />
 
@@ -43,6 +44,8 @@ You can click the Preview link to take a look at your changes.
 [github]: https://github.com/IbrahimTalha0
 [Linux]: https://www.linux.org/
 [python]: https://www.python.org/
+[docker]: https://www.docker.com/
+[grafana]: https://grafana.com/
 
 <br />
 <br />
