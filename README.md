@@ -16,9 +16,7 @@ You can click the Preview link to take a look at your changes.
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" />][medium]
 
-
 <br />
-
 
 [instagram]: 
 [linkedin]: www.linkedin.com/in/zekai-kostik
@@ -46,3 +44,5 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 <br />
+ <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Zekai-Kostik&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zekai-Kostik&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
