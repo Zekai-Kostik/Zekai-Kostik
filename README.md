@@ -2,7 +2,7 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=25&pause=200&color=007ba7&lines=Hi+there..!+%F0%9F%96%90+I'm+Zekai,+;Welcome+to+My+GitHub+page...)](https://git.io/typing-svg)
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="280" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="470" height="280" />
 
 
 <br>
