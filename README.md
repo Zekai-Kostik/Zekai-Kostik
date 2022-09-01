@@ -4,37 +4,32 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<br>
-<br>
-👋 Hi, I’m @Zekai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
- <br />
-<!---
-Zekai-Kostik/Zekai-Kostik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<br />
-📩 Connect with me:
 
+<br>
+<br/>
+- 👋 Hi, I’m @Zekai,<br><br/>
+- ✨ I'm Jn. Aws-Devops Engineer,<br><br/>
+- 👀 I’m interested in Aws-Devops & Cloud Tecnologies,<br><br/>
+- 🌱 I’m currently learning Devops tools like Kubernetes, Docker,<br><br/>
+- 💞️ I’m looking to collaborate on DevOps projects,<br><br/>
+
+<br>
+<br />
+<h3>📩  Connect with me:<br><br /><h3/>
 
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" />][medium]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />](https://linkedin.com/in/zekai-kostik) 
 
-<br>
-
-
+<br><br />
 
 [linkedin]: www.linkedin.com/in/zekai-kostik
 [medium]: https://medium.com/@zekai.kostik2469
 [gmail]: mailto:zekai.kostik2469@gmail.com
 
-<br />
 
-🔧 Languages and Tools:
+
+🔧 Languages and Tools:<br><br />
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
