@@ -19,7 +19,7 @@
 
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" />][medium]
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />(www.linkedin.com/in/zekai-kostik)
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/zekai-kostik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/zekai-kostik/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zekai.kostik/" height="30" width="40" /></a>
 
 <br><br />
 
