@@ -20,7 +20,7 @@
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" />][medium]
 <a href = "https://www.linkedin.com/in/zekai-kostik/"><img src="https://img.icons8.com/fluent/32/000000/linkedin.png"/></a>
-<a href = "https://www.medium.com/in/@zekai.kostik2469/"><img src="https:///img.icons8.com/ios/344/medium-monogram--v1.png 2x"/></a>
+<a href = "https://www.medium.com/in/@zekai.kostik2469/"><img src="https:///img.icons8.com/ios/32/medium-monogram--v1.png"/></a>
 <br><br />
 
 [linkedin]: www.linkedin.com/in/zekai-kostik
