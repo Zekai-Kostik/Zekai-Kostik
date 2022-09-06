@@ -53,7 +53,7 @@
 
 <br />
 <br />
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics<br><br />
 
 <a href="https://github.com/Zekai-Kostik">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Zekai-Kostik&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="Zekai-Kostik"/>
