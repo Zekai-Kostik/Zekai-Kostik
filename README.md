@@ -17,7 +17,7 @@
 <br />
 <h3>📩  Connect with me:<br><br /><h3/>
 
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="left" height="32" width="32" src=""https://img.icons8.com/fluent/32/000000/gmail.png" />][gmail]
 [<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/medium.svg" />][medium]
 <a href = "https://www.linkedin.com/in/zekai-kostik/"><img src="https://img.icons8.com/fluent/32/000000/linkedin.png"/></a>
 <a href = "https://www.gmail.com/in/@zekai.kostik2469/"><img src="https://img.icons8.com/fluent/32/000000/gmail.png"/></a>
