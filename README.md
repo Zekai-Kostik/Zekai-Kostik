@@ -63,4 +63,4 @@
 <br />
 <br />
   
-![Image of me](https://github.com/Zekai-Kostik/Zekai-Kostik/blob/master/me.gif?raw=true)
+
