@@ -59,6 +59,8 @@
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=Zekai-Kostik&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="Zekai-Kostik"/>
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zekai-Kostik&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="Zekai-Kostik"/>
 </a>
+  
 <br />
 <br />
-![Image of me](https://github.com/Zekai-Kostik/zekai-kostik/blob/master/me.gif?raw=true)
+  
+![Image of me](https://github.com/Zekai-Kostik/Zekai-Kostik/blob/master/me.gif?raw=true)
