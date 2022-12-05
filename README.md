@@ -51,6 +51,8 @@
 [docker]: https://www.docker.com/
 [grafana]: https://grafana.com/
 [kubernetes]: https://kubernetes.io/
+[terraform]: https://terraform.com/  
+  
 
 <br />
 <br />
