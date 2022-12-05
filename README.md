@@ -49,8 +49,8 @@
 [Linux]: https://www.linux.org/
 [python]: https://www.python.org/
 [docker]: https://www.docker.com/
-[grafana]: https://grafana.com/
-[kubernetes]: https://kubernetes.io/
+[grafana]: https://www.grafana.com/
+[kubernetes]: https://www.kubernetes.io/
 [terraform]: https://www.terraform.io
   
 
