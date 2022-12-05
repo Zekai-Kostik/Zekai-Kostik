@@ -50,6 +50,7 @@
 [python]: https://www.python.org/
 [docker]: https://www.docker.com/
 [grafana]: https://grafana.com/
+[kubernetes]: https://kubernetes.io/
 
 <br />
 <br />
@@ -62,4 +63,6 @@
   
 <br />
 <br />
+
+![snake gif](https://github.com/Zekai-Kostik/Zekai-Kostik/blob/output/github-contribution-grid-snake.gif)
 
